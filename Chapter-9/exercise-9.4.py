@@ -1,7 +1,6 @@
-# EXERCISE 9.4: Add code to the above program to figure out who has the
-# most messages in the file. After all the data has been read and the dictionary has been created, look through the dictionary using a maximum
-# loop (see Chapter 5: Maximum and minimum loops) to find who has
-# the most messages and print how many messages the person has.
+'''EXERCISE 9.4: Add code to the above program to figure out who has the most messages in the file. After all the data has been read and the 
+dictionary has been created, look through the dictionary using a maximum loop (see Chapter 5: Maximum and minimum loops) to find who has the 
+most messages and print how many messages the person has.'''
 
 fhand = open('/home/alejandro/Documentos/Desarrollo/python/PY4E-ejercicios/mbox.txt', 'r')
 dictionary = {}
