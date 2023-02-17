@@ -2,7 +2,6 @@
 to the first character in the string, printing each letter on a separate line, except backwards.'''
 
 string = input('Enter a word: ')
-
 index = len(string) - 1
 
 while index >= 0:
